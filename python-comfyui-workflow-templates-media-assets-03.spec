@@ -1,5 +1,5 @@
 Name:		python-comfyui-workflow-templates-media-assets-03
-Version:	0.1.2
+Version:	0.1.4
 Release:	1
 Summary:	Workflow template preview assets for ComfyUI
 License:	MIT
@@ -16,7 +16,7 @@ BuildRequires:	python%{pyver}dist(setuptools)
 %description
 Third preview-asset bundle for the ComfyUI workflow templates.
 These are upstream media assets, not model weights.
-comfyui-workflow-templates 0.11.118 requires this package.
+comfyui-workflow-templates 0.11.121 requires this package.
 
 %files
 %{py_sitedir}/comfyui_workflow_templates_media_assets_03
